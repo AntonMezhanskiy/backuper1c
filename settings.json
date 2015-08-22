@@ -1,0 +1,14 @@
+{
+  "YA_USER": "your_yandex_email",
+  "YA_PASS": "your_yandex_password",
+  "SMTP_SERVER": "smtp.yandex.ru",
+  "SCRIPT_FILE": "script.bat",
+  "NAME_FILE": "ut",
+  "NAME_FILE_LOG": "ut_log",
+  "TIME_EMAIL_START": 8,
+  "TIME_EMAIL_END": 9,
+  "TIME_BACKUP_START": 22,
+  "TIME_BACKUP_END": 7,
+  "DESTINATION": "your_email",
+  "SUBJECT_EMAIL": "backup 1c"
+}
